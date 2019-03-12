@@ -6,23 +6,23 @@
 #
 appnope==0.1.0            # via ipython
 backcall==0.1.0           # via ipython
-certifi==2018.11.29       # via requests
+certifi==2019.3.9         # via requests
 chardet==3.0.4            # via requests
 cycler==0.10.0            # via matplotlib
 decorator==4.3.2          # via ipython, traitlets
 future==0.17.1            # via pyglet
 gym-yahtzee==1.0.1
-gym==0.11.0
+gym==0.12.0
 idna==2.8                 # via requests
 ipykernel==5.1.0
 ipython-genutils==0.2.0   # via traitlets
 ipython==7.3.0            # via ipykernel
-jedi==0.13.2              # via ipython
+jedi==0.13.3              # via ipython
 jupyter-client==5.2.4     # via ipykernel
 jupyter-core==4.4.0       # via jupyter-client
 kiwisolver==1.0.1         # via matplotlib
-matplotlib==3.0.2
-numpy==1.16.1
+matplotlib==3.0.3
+numpy==1.16.2
 parso==0.3.4              # via jedi
 pexpect==4.6.0            # via ipython
 pickleshare==0.7.5        # via ipython
@@ -33,12 +33,12 @@ pygments==2.3.1           # via ipython
 pyhtzee==1.2.5            # via gym-yahtzee
 pyparsing==2.3.1          # via matplotlib
 python-dateutil==2.8.0    # via jupyter-client, matplotlib
-pyzmq==18.0.0             # via jupyter-client
+pyzmq==18.0.1             # via jupyter-client
 requests==2.21.0          # via gym
 scipy==1.2.1              # via gym
 six==1.12.0               # via cycler, gym, prompt-toolkit, python-dateutil, traitlets
 torch==1.0.1.post2
-tornado==5.1.1            # via ipykernel, jupyter-client
+tornado==6.0.1            # via ipykernel, jupyter-client
 traitlets==4.3.2          # via ipykernel, ipython, jupyter-client, jupyter-core
 urllib3==1.24.1           # via requests
 wcwidth==0.1.7            # via prompt-toolkit
